@@ -1,7 +1,7 @@
-var host = "localhost"; 
-var user = "connor";
-var password = "10Superstar"; 
-var db = "MyDB2"; 
+var host = ""; 
+var user = "";
+var password = ""; 
+var db = ""; 
 
 exports.host_get = function() {
     return host; 
